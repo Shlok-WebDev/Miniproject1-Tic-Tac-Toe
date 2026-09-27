@@ -17,4 +17,4 @@ A classic, interactive Tic-Tac-Toe web game built using vanilla frontend technol
 To run this project locally, simply clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone [https://github.com/Shlok-WebDev/Miniproject1-Tic-Tac-Toe.git](https://github.com/Shlok-WebDev/Miniproject1-Tic-Tac-Toe.git)
+git clone https://github.com/Shlok-WebDev/Miniproject1-Tic-Tac-Toe.git
